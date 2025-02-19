@@ -21,7 +21,7 @@ Each section has been intentionally placed to highlight key areas of your overal
 
 ## Todos (If you use for yourself)
 A simple checklist to kick-start your new personal portfolio.
-- `$> git clone git@github.com:morganjlopes/portfolio-template.git`
+- `$> git clone git@github.com:maryamrahmani/maryamrahmani.github.io.git`
 - Open index.html in text editor.
 - Replace all instances of 'morganjlopes' with your respective username (per platform).
 - Add your own Github Activity Graph screenshot.
