@@ -1,7 +1,7 @@
 # Free Personal Portfolio Template
 A free, public template for anyone to kick-start their personal, online portfolio website. It's clean, simple, and covers the basics.
 
-**View Demo:** [https://maryamrahmani.github.io/](https://maryamrahmani.github.io/))
+**View Demo:** [https://maryamrahmani.github.io/](https://maryamrahmani.github.io/)
 
 ## Tools Used
 - Bootstrap
