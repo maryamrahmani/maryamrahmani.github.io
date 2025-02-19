@@ -23,7 +23,7 @@ Each section has been intentionally placed to highlight key areas of your overal
 A simple checklist to kick-start your new personal portfolio.
 - `$> git clone git@github.com:maryamrahmani/maryamrahmani.github.io.git`
 - Open index.html in text editor.
-- Replace all instances of 'morganjlopes' with your respective username (per platform).
+- Replace all instances of 'Maryam Rahmani' with your respective username (per platform).
 - Add your own Github Activity Graph screenshot.
 - Update all 'Morgan specific content' with your own (paragraphs, logogs, images, portfolio items, testimonials, etc).
 - Choose your own call to action : Download Resume, Connect on Linkedin, Send Email, Schedule a Call
