@@ -5,13 +5,13 @@ This is a free, publicly available template designed to help anyone quickly set 
 
 ## Portfolio Sections
 Each section is strategically placed to highlight the most important aspects of your portfolio:
--Introduction: A brief and clear overview of who you are.
--Work Experience: Logos of notable companies or organizations you’ve worked with.
--Featured Projects: Showcase up to three key portfolio items.
--Additional Work: Include as many extra projects as you’d like.
--About You: A blend of professional background and personal insights.
--Beyond Code: Highlight other creative works, writings, or contributions.
--Call to Action: Options to download your resume, connect on LinkedIn, send an email, schedule a call, and more.
+- Introduction: A brief and clear overview of who you are.
+- Work Experience: Logos of notable companies or organizations you’ve worked with.
+- Featured Projects: Showcase up to three key portfolio items.
+- Additional Work: Include as many extra projects as you’d like.
+- About You: A blend of professional background and personal insights.
+- Beyond Code: Highlight other creative works, writings, or contributions.
+- Call to Action: Options to download your resume, connect on LinkedIn, send an email, schedule a call, and more.
 
 ## Todos (If you use for yourself)
 A simple checklist to kick-start your new personal portfolio.
