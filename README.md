@@ -13,7 +13,7 @@ Each section is strategically placed to highlight the most important aspects of 
 - Beyond Code: Highlight other creative works, writings, or contributions.
 - Call to Action: Options to download your resume, connect on LinkedIn, send an email, schedule a call, and more.
 
-## Todos (If you use for yourself)
+## Setup Guide (For Personal Use)
 A simple checklist to kick-start your new personal portfolio.
 - `$> git clone git@github.com:maryamrahmani/maryamrahmani.github.io.git`
 - Open index.html in text editor.
