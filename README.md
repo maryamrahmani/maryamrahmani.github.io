@@ -1,27 +1,42 @@
-# Free Personal Portfolio Template
-This is a free, publicly available template designed to help anyone quickly set up a personal online portfolio website. It’s clean, minimalist, and covers all the essentials.
-**View Demo:** [Template](https://maryamrahmani.github.io/)
+Maryam Rahmani's Data-Driven Portfolio
 
+Welcome to this free, clean, and minimalist portfolio template! Designed for data professionals and researchers, it’s your go-to solution for showcasing your work, skills, and experiences online.
 
-## Portfolio Sections
-Each section is strategically placed to highlight the most important aspects of your portfolio:
-- Introduction: A brief and clear overview of who you are.
-- Work Experience: Logos of notable companies or organizations you’ve worked with.
-- Featured Projects: Showcase up to three key portfolio items.
-- Additional Work: Include as many extra projects as you’d like.
-- About You: A blend of professional background and personal insights.
-- Beyond Code: Highlight other creative works, writings, or contributions.
-- Call to Action: Options to download your resume, connect on LinkedIn, send an email, schedule a call, and more.
+🎨 Features
+Clean & Minimal Design: Focus on what matters most.
+Fully Customizable: Easily replace content and images with your own.
+Responsive Layout: Optimized for both desktop and mobile devices.
+Easy Setup: Get your portfolio online in minutes.
+📂 Portfolio Sections
+Each section is thoughtfully designed to highlight your key strengths:
 
-## Setup Guide (For Personal Use)
-A simple checklist to kick-start your new personal portfolio.
-- `$> git clone git@github.com:maryamrahmani/maryamrahmani.github.io.git`
-- Open index.html in text editor.
-- Replace all instances of 'Maryam Rahmani' with your name.
-- Add your own Github Activity Graph screenshot.
-- Update all 'Maryam specific content' with your own (paragraphs, logogs, images, portfolio items, testimonials, etc).
-- Choose your own call to action : Download Resume, Connect on Linkedin, Send Email, Schedule a Call
+Introduction: A snapshot of who you are.
+Work Experience: Display logos of companies or organizations you've worked with.
+Featured Projects: Highlight up to three major projects.
+Additional Work: Showcase extra projects or freelance work.
+About You: Share your professional background and personal story.
+Beyond Code: Feature writings, creative works, or side projects.
+Call to Action: Options to download your resume, connect on LinkedIn, send an email, or schedule a call.
+🚀 Setup Guide
+Follow these steps to get started:
 
+Clone the Repository:
 
+bash
+Copy
+git clone git@github.com:maryamrahmani/maryamrahmani.github.io.git
+Open index.html in your favorite text editor.
 
-_Originally created by Morgan J Lopes, with modifications made by me.
+Customize the Template:
+
+Replace all instances of "Maryam Rahmani" with your name.
+Update any Maryam-specific content (text, images, logos, portfolio items, testimonials, etc.) with your own details.
+Add your own GitHub Activity Graph screenshot.
+Choose your preferred call-to-action options (e.g., Download Resume, Connect on LinkedIn, Send Email, Schedule a Call).
+Save Your Changes and Deploy:
+
+Commit and push your changes to GitHub.
+Your portfolio will be live at https://yourusername.github.io/ (replace yourusername with your GitHub username).
+💡 Notes
+Originally created by Morgan J Lopes and now personalized by me.
+Contributions and improvements are welcome—feel free to share your modifications with the community!
