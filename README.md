@@ -1,4 +1,4 @@
-# Maryam Rahmani's Data-Driven Portfolio
+# Free, clean, and minimalist portfolio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/maryamrahmani/maryamrahmani.github.io)](https://github.com/maryamrahmani/maryamrahmani.github.io/stargazers)
